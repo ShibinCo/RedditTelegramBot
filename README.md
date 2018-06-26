@@ -1,4 +1,4 @@
-#Simple Telegram Bot to fetch the latest post from a SubReddit.
+# Simple Telegram Bot to fetch the latest post from a SubReddit.
 
 ## How to run the project
 Requires [NodeJS](https://nodejs.org) to be installed on your system.  
